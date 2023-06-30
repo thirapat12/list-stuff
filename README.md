@@ -19,3 +19,4 @@
 # add-on
 - https://gist.github.com/search?l=Python&q=azure+billing
 - https://gist.github.com/search?l=PowerShell&q=billing+azure ( scroll down )
+- https://github.com/search?q=get%20cost%20azure&type=repositories
