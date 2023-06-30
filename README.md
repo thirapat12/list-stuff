@@ -15,3 +15,7 @@
 - https://github.com/arminreiter/AzureBillingApi
 - https://learn.microsoft.com/en-us/rest/api/billing/2019-10-01-preview/billing-accounts/get?tabs=HTTP#code-try-0
 - https://learn.microsoft.com/en-us/samples/azure-samples/azure-cxp-developer-support/powershell-script-to-list-billing-accounts-using-rest-api/
+
+# add-on
+- https://gist.github.com/search?l=Python&q=azure+billing
+- https://gist.github.com/search?l=PowerShell&q=billing+azure ( scroll down )
